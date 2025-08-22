@@ -2,19 +2,19 @@
   "buttons": [
     {
       "label": "🔥 Más vendidos con promoción",
-      "url": "https://es.aliexpress.com/w/wholesale-productos-mas-vendidos.html?g=y&SearchText=productos+mas+vendidos&selectedSwitches=filterCode%3Abigsale"
+      "url": "https://es.aliexpress.com/w/wholesale-productos-mas-vendidos.html?g=y&SearchText=productos+mas+vendidos&selectedSwitches=filterCode%3Abigsale&aff_fcid=chrext2"
     },
     {
       "label": "⚡ Ofertas Flash",
-      "url": "https://es.aliexpress.com/af/flashdeals.html"
+      "url": "https://es.aliexpress.com/af/flashdeals.html?aff_fcid=chrext2"
     },
     {
       "label": "🌍 Top Ventas Globales",
-      "url": "https://es.aliexpress.com/premium/top-selling.html"
+      "url": "https://es.aliexpress.com/premium/top-selling.html?aff_fcid=chrext2"
     },
     {
       "label": "🆕 Novedades",
-      "url": "https://es.aliexpress.com/premium/new-arrivals.html"
+      "url": "https://es.aliexpress.com/premium/new-arrivals.html?aff_fcid=chrext2"
     }
   ]
 }
