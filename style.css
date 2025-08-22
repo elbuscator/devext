@@ -19,7 +19,7 @@ body {
 /* Header */
 header {
   text-align: center;
-  background-color: #ff6600;
+  background-color: #0055aa; /* Azul anterior */
   color: white;
   padding: 1.5rem 1rem;
 }
@@ -72,8 +72,15 @@ section {
 }
 
 section h2 {
-  color: #ff6600;
+  color: #0055aa; /* Azul anterior */
   margin-top: 0;
+}
+
+/* Listas sin puntos (para botón de Amazon) */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Botones */
@@ -81,7 +88,7 @@ a.button {
   display: inline-block;
   margin-top: 1rem;
   padding: 0.8rem 1.5rem;
-  background-color: #ff6600;
+  background-color: #0055aa; /* Azul anterior */
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -90,7 +97,7 @@ a.button {
 }
 
 a.button:hover {
-  background-color: #cc5200;
+  background-color: #003d80; /* Azul oscuro */
 }
 
 /* Footer */
