@@ -1,0 +1,104 @@
+/* Tipografía y fondo general */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: #f7f7f7;
+  color: #333;
+}
+
+/* Imagen de cabecera */
+.header-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Header */
+header {
+  text-align: center;
+  background-color: #ff6600;
+  color: white;
+  padding: 1.5rem 1rem;
+}
+
+header h1 {
+  margin: 0.5rem 0 0.2rem;
+  font-size: 2.5rem;
+}
+
+header p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+header nav {
+  margin-top: 1rem;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: bold;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+header nav a,
+header nav a:visited,
+header nav a:active {
+  color: white;
+}
+
+/* Contenedor principal */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Secciones */
+section {
+  background: white;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: #ff6600;
+  margin-top: 0;
+}
+
+/* Botones */
+a.button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #ff6600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+a.button:hover {
+  background-color: #cc5200;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  padding: 2rem 1rem;
+  border-top: 1px solid #ccc;
+  background-color: #f0f0f0;
+}
