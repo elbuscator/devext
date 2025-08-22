@@ -1,0 +1,20 @@
+{
+  "buttons": [
+    {
+      "label": "🔥 Más vendidos con promoción",
+      "url": "https://es.aliexpress.com/w/wholesale-productos-mas-vendidos.html?g=y&SearchText=productos+mas+vendidos&selectedSwitches=filterCode%3Abigsale"
+    },
+    {
+      "label": "⚡ Ofertas Flash",
+      "url": "https://es.aliexpress.com/af/flashdeals.html"
+    },
+    {
+      "label": "🌍 Top Ventas Globales",
+      "url": "https://es.aliexpress.com/premium/top-selling.html"
+    },
+    {
+      "label": "🆕 Novedades",
+      "url": "https://es.aliexpress.com/premium/new-arrivals.html"
+    }
+  ]
+}
