@@ -1,0 +1,23 @@
+{
+  "PS5": [
+    { "title": "Final Fantasy VII Rebirth", "amazonUrl": "https://www.amazon.es/dp/XXXX/?tag=tu-tag" },
+    { "title": "Dragon Quest XII", "amazonUrl": "https://www.amazon.es/dp/YYYY/?tag=tu-tag" },
+    { "title": "Spider-Man 2", "amazonUrl": "https://www.amazon.es/dp/ZZZZ/?tag=tu-tag" },
+    { "title": "Elden Ring: Shadow of the Erdtree", "amazonUrl": "https://www.amazon.es/dp/AAAA/?tag=tu-tag" },
+    { "title": "Tekken 8", "amazonUrl": "https://www.amazon.es/dp/BBBB/?tag=tu-tag" }
+  ],
+  "Switch 2": [
+    { "title": "Metroid Prime 4", "amazonUrl": "https://www.amazon.es/dp/CCCC/?tag=tu-tag" },
+    { "title": "Zelda: Echoes of the Void", "amazonUrl": "https://www.amazon.es/dp/DDDD/?tag=tu-tag" },
+    { "title": "Mario Kart 9", "amazonUrl": "https://www.amazon.es/dp/EEEE/?tag=tu-tag" },
+    { "title": "Super Mario Odyssey 2", "amazonUrl": "https://www.amazon.es/dp/FFFF/?tag=tu-tag" },
+    { "title": "Pokémon Legends: Z-A", "amazonUrl": "https://www.amazon.es/dp/GGGG/?tag=tu-tag" }
+  ],
+  "Xbox Series": [
+    { "title": "Halo: Infinite 2", "amazonUrl": "https://www.amazon.es/dp/HHHH/?tag=tu-tag" },
+    { "title": "Gears 6", "amazonUrl": "https://www.amazon.es/dp/IIII/?tag=tu-tag" },
+    { "title": "Fable Reboot", "amazonUrl": "https://www.amazon.es/dp/JJJJ/?tag=tu-tag" },
+    { "title": "Starfield DLC", "amazonUrl": "https://www.amazon.es/dp/KKKK/?tag=tu-tag" },
+    { "title": "Forza Motorsport", "amazonUrl": "https://www.amazon.es/dp/LLLL/?tag=tu-tag" }
+  ]
+}
