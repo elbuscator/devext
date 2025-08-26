@@ -113,6 +113,10 @@ a.button:hover {
   background-color: #003d80; /* Azul oscuro */
 }
 
+.blue {
+  color: #007bff;
+}
+
 /* Footer */
 footer {
   text-align: center;
