@@ -1,23 +1,83 @@
 {
   "PS5": [
-    { "title": "Final Fantasy VII Rebirth", "amazonUrl": "https://www.amazon.es/dp/XXXX/?tag=tu-tag" },
-    { "title": "Dragon Quest XII", "amazonUrl": "https://www.amazon.es/dp/YYYY/?tag=tu-tag" },
-    { "title": "Spider-Man 2", "amazonUrl": "https://www.amazon.es/dp/ZZZZ/?tag=tu-tag" },
-    { "title": "Elden Ring: Shadow of the Erdtree", "amazonUrl": "https://www.amazon.es/dp/AAAA/?tag=tu-tag" },
-    { "title": "Tekken 8", "amazonUrl": "https://www.amazon.es/dp/BBBB/?tag=tu-tag" }
+    {
+      "title": "Metal Gear Solid Δ: Snake Eater",
+      "amazonUrl": "https://www.amazon.es/dp/B08XYZ1234/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Ghost of Yōtei",
+      "amazonUrl": "https://www.amazon.es/dp/B08ABC5678/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Silent Hill f",
+      "amazonUrl": "https://www.amazon.es/dp/B08DEF9012/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Death Stranding 2: On The Beach",
+      "amazonUrl": "https://www.amazon.es/dp/B08GHI3456/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Final Fantasy XVI",
+      "amazonUrl": "https://www.amazon.es/dp/B08JKL7890/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    }
   ],
   "Switch 2": [
-    { "title": "Metroid Prime 4", "amazonUrl": "https://www.amazon.es/dp/CCCC/?tag=tu-tag" },
-    { "title": "Zelda: Echoes of the Void", "amazonUrl": "https://www.amazon.es/dp/DDDD/?tag=tu-tag" },
-    { "title": "Mario Kart 9", "amazonUrl": "https://www.amazon.es/dp/EEEE/?tag=tu-tag" },
-    { "title": "Super Mario Odyssey 2", "amazonUrl": "https://www.amazon.es/dp/FFFF/?tag=tu-tag" },
-    { "title": "Pokémon Legends: Z-A", "amazonUrl": "https://www.amazon.es/dp/GGGG/?tag=tu-tag" }
+    {
+      "title": "Pokémon Legends: Z-A",
+      "amazonUrl": "https://www.amazon.es/dp/B08MNO1234/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Daemon X Machina: Titanic Scion",
+      "amazonUrl": "https://www.amazon.es/dp/B08PQR5678/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Zelda: Echoes of the Sky",
+      "amazonUrl": "https://www.amazon.es/dp/B08STU9012/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Mario Kart 10",
+      "amazonUrl": "https://www.amazon.es/dp/B08VWX3456/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Fire Emblem: Shadows",
+      "amazonUrl": "https://www.amazon.es/dp/B08YZA7890/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    }
   ],
-  "Xbox Series": [
-    { "title": "Halo: Infinite 2", "amazonUrl": "https://www.amazon.es/dp/HHHH/?tag=tu-tag" },
-    { "title": "Gears 6", "amazonUrl": "https://www.amazon.es/dp/IIII/?tag=tu-tag" },
-    { "title": "Fable Reboot", "amazonUrl": "https://www.amazon.es/dp/JJJJ/?tag=tu-tag" },
-    { "title": "Starfield DLC", "amazonUrl": "https://www.amazon.es/dp/KKKK/?tag=tu-tag" },
-    { "title": "Forza Motorsport", "amazonUrl": "https://www.amazon.es/dp/LLLL/?tag=tu-tag" }
+  "Xbox Series X|S": [
+    {
+      "title": "Gears of War Reloaded",
+      "amazonUrl": "https://www.amazon.es/dp/B08BCD1234/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Battlefield 6",
+      "amazonUrl": "https://www.amazon.es/dp/B08EFG5678/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Skate (Early Access)",
+      "amazonUrl": "https://www.amazon.es/dp/B08HIJ9012/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Fable Rebirth",
+      "amazonUrl": "https://www.amazon.es/dp/B08KLM3456/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91X5+K9J8RL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Forza Horizon 6",
+      "amazonUrl": "https://www.amazon.es/dp/B08NOP7890/?tag=chrx1-21",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81X6+L9J8RL._AC_SY679_.jpg"
+    }
   ]
 }
