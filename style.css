@@ -76,12 +76,25 @@ section h2 {
   margin-top: 0;
 }
 
-/* Listas sin puntos (para botón de Amazon) */
 ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
 }
+
+ul li a.button {
+  display: block;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  text-align: center;
+}
+
 
 /* Botones */
 a.button {
